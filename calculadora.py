@@ -7,3 +7,5 @@ def resta(a, b):
     
 if __name__ == "__main__":
     print("Ejercicio Calculadora GIT - Equipo de Trabajo")
+def multiplicacion(a, b):
+    return a * b
